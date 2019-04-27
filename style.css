@@ -3,16 +3,20 @@ body {
   font-size: 1rem;
   background-image: url(background.jpg);
   background-size: cover;
+  background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center top;
   
 }
 
-.picture {
+#picture {
   float: right;
   width: 20%;
   height: auto;
 }
 
-.container {
+
+#container {
   margin-top: 20px;
 	margin-left: 200px;
 	margin-right: 200px;
@@ -27,11 +31,11 @@ body {
 }
 
 
-.contact-name {
+#contact-name {
   text-align: center;
   font-weight: bold;
 }
-.contact-info {
+#contact-info {
   text-align: center;
   border-bottom: 1px solid #000000;
 
