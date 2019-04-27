@@ -25,17 +25,19 @@ body {
 
 }
 
-.contact-info {
+#contact-name {
+  text-align: center;
+  font-weight: bold;
+  
+}
+
+#contact-info {
+  text-align: center;
   border-bottom: 1px solid #000000
 
 
 }
 
-h1 {
-  text-align: center;
-  font-weight: bold;
-
-}
 
 
 
