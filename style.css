@@ -22,21 +22,21 @@ body {
 	border-radius: 15px;
 	background-color: #E7F5F4;
 
-  opacity: .5;
+  opacity: .75;
 
 }
 
-.contact-info {
-  border-bottom: 1px solid #000000
 
-
-}
-
-h1 {
+.contact-name {
   text-align: center;
   font-weight: bold;
+}
+.contact-info {
+  text-align: center;
+  border-bottom: 1px solid #000000;
 
 }
+
 
 
 
