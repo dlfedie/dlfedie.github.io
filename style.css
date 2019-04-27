@@ -9,7 +9,8 @@ body {
 
 #picture {
   float: right;
-
+  height: 250px;
+  width: auto;
 }
 
 #container {
@@ -20,11 +21,14 @@ body {
 	padding: 20px 200px 20px 200px;
 
 	border-radius: 15px;
-	background-color: #E7F5F4;
-
-  opacity: .5;
+  background: rgba(231, 245, 244, 0.5);
+  /* background-color: #E7F5F4; */
+  /* opacity: 0.5; */
+  /* https://www.w3schools.com/cssref/css3_pr_opacity.asp */
 
 }
+
+
 
 #contact-name {
   text-align: center;
