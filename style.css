@@ -6,6 +6,32 @@ body {
   
 }
 
+#picture {
+  float: right;
+}
+
+.catinlap {
+  padding: 250px 0;
+  margin: 30px;
+  opacity: .5;
+
+}
+
+.contact-info {
+  border-bottom: 1px solid #000000
+
+
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+
+}
+
+
+
+
 
 #footer {
  font-size: 0.75rem; 
