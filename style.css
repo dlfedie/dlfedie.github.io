@@ -6,8 +6,10 @@ body {
   
 }
 
-#picture {
+.picture {
   float: right;
+  width: 60%;
+  height: auto;
 }
 
 .container {
