@@ -10,9 +10,16 @@ body {
   float: right;
 }
 
-.catinlap {
-  padding: 250px 0;
-  margin: 30px;
+.container {
+  margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 20px 200px 20px 200px;
+
+	border-radius: 15px;
+	background-color: #E7F5F4;
+
   opacity: .5;
 
 }
