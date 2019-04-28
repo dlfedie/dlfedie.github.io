@@ -14,11 +14,12 @@ body {
 }
 
 #container {
-  margin-top: 20px;
+  margin-top: 60px;
 	margin-left: 200px;
-	margin-right: 200px;
+  margin-right: 200px;
+  margin-bottom: 80px;
 
-	padding: 20px 200px 20px 200px;
+	padding: 40px 40px 40px 40px;
 
 	border-radius: 15px;
   background: rgba(231, 245, 244, 0.5);
@@ -27,8 +28,6 @@ body {
   /* https://www.w3schools.com/cssref/css3_pr_opacity.asp */
 
 }
-
-
 
 #contact-name {
   text-align: center;
@@ -43,9 +42,13 @@ body {
 
 }
 
+.title {
+  text-align: center;
+}
 
-
-
+#summary {
+  border-bottom: 1px solid #000000
+}
 
 
 #footer {
