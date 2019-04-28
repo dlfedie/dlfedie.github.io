@@ -32,14 +32,11 @@ body {
 #contact-name {
   text-align: center;
   font-weight: bold;
-  
 }
 
 #contact-info {
   text-align: center;
   border-bottom: 1px solid #000000
-
-
 }
 
 .title {
@@ -50,6 +47,9 @@ body {
   border-bottom: 1px solid #000000
 }
 
+#professional {
+  border-bottom: 1px solid #000000
+}
 
 #footer {
  font-size: 0.75rem; 
