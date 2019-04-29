@@ -11,15 +11,18 @@ body {
   float: right;
   height: 250px;
   width: auto;
+  margin-left: 2%;
+  margin-bottom: 2%;
+  max-width: 50%;
 }
 
 #container {
-  margin-top: 60px;
-	margin-left: 200px;
-  margin-right: 200px;
-  margin-bottom: 80px;
+  margin-top: 4%;
+	margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 7%;
 
-	padding: 40px 40px 40px 40px;
+	padding: 4% 4% 4% 4%;
 
 	border-radius: 15px;
   background: rgba(231, 245, 244, 0.8);
@@ -32,12 +35,14 @@ body {
 #contact-name {
   text-align: center;
   font-weight: bold;
+  font-size: x-large;
 }
 
 #contact-info {
   text-align: center;
   border-bottom: 1px solid #000000
 }
+
 
 .title {
   text-align: center;
