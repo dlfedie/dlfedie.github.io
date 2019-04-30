@@ -68,3 +68,24 @@ ul#horiz-exp li{
   text-align: center;
   font-size: 0.75rem; 
 }
+
+#catbox {
+  align-content: center;
+}
+
+#catpics {
+  height: 300px;
+  width: auto;
+  margin-left: 2%;
+  margin-bottom: 2%;
+  max-width: 50%;
+}
+
+#catpics-rotate {
+  height: 300px;
+  width: auto;
+  margin-left: 2%;
+  margin-bottom: 2%;
+  max-width: 50%;
+  transform: rotate(90deg);
+}
