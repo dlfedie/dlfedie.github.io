@@ -12,7 +12,7 @@ body {
   height: 250px;
   width: auto;
   margin-left: 2%;
-  margin-bottom: 2%;
+  margin-bottom: 4%;
   max-width: 50%;
 }
 
@@ -22,7 +22,7 @@ body {
   margin-right: 10%;
   margin-bottom: 7%;
 
-	padding: 4% 4% 4% 4%;
+	padding: 3% 3% 3% 3%;
 
 	border-radius: 15px;
   background: rgba(231, 245, 244, 0.8);
@@ -33,13 +33,13 @@ body {
 }
 
 #contact-name {
-  text-align: center;
+  /* text-align: center; */
   font-weight: bold;
   font-size: x-large;
 }
 
 #contact-info {
-  text-align: center;
+  /* text-align: center; */
   border-bottom: 1px solid #000000
 }
 
